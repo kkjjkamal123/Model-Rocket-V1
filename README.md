@@ -58,7 +58,6 @@ Model-Rocket-V1/
 │   └── launch_lug.step
 │
 ├── BUILD_GUIDE.md               ← Full step-by-step build procedure
-├── SESSION_REPORT.md            ← Engineering session log & decisions
 └── README.md                    ← You are here
 ```
 
