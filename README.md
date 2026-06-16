@@ -20,7 +20,7 @@
 ![Propellant](https://img.shields.io/badge/Propellant-KNSB%2065%3A35-blue?style=for-the-badge)
 ![Apogee Target](https://img.shields.io/badge/Target%20Apogee-200--300%20m-red?style=for-the-badge)
 ![OpenRocket](https://img.shields.io/badge/Simulation-OpenRocket-9cf?style=for-the-badge)
-![CAD](https://img.shields.io/badge/Solidworks-brightgreen?style=for-the-badge&logo=rocket)
+![CAD](https://img.shields.io/badge/Solidworks-Active%20brightgreen?style=for-the-badge&logo=rocket)
 
 </div>
 
