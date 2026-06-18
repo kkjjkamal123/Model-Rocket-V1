@@ -3,9 +3,6 @@
 <!-- ANIMATED ROCKET BANNER -->
 <img src="rocket_banner.svg" alt="R-Candy Rocketry Banner" width="100%"/>
 
-<!-- ANIMATED TYPEWRITER EFFECT HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+R-Candy+Rocketry+Project;Sugar+Propellant+·+KNSB+65%3A35;200–300+m+Apogee+·+First+Build" alt="Typing SVG" /></a>
-
 <!-- ANIMATED CAPSULE HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35,1a1f35&height=80&section=header&text=Model-Rocket-V1&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=From+bench+to+sky+—+built+from+scratch&descAlignY=80&descSize=13" width="100%"/>
 
