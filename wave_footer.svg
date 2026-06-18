@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60">
+  <defs>
+    <style>
+      @keyframes wave1 { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+      @keyframes wave2 { 0%{transform:translateX(0)} 100%{transform:translateX(50%)} }
+      .w1 { animation: wave1 6s linear infinite; }
+      .w2 { animation: wave2 8s linear infinite; }
+    </style>
+  </defs>
+  <g class="w1">
+    <path d="M0,40 Q112,10 225,40 Q338,70 450,40 Q562,10 675,40 Q788,70 900,40 Q1012,10 1125,40 Q1238,70 1350,40 L1350,60 L0,60Z" fill="#ff6b35" opacity="0.15"/>
+  </g>
+  <g class="w2">
+    <path d="M-450,50 Q-337,20 -225,50 Q-112,80 0,50 Q112,20 225,50 Q338,80 450,50 Q562,20 675,50 Q788,80 900,50 Q1012,20 1125,50 L1125,60 L-450,60Z" fill="#aad4ff" opacity="0.1"/>
+  </g>
+  <text x="450" y="30" text-anchor="middle" font-family="monospace" font-size="10" fill="#ff6b35" opacity="0.6" letter-spacing="4">
+    ★ BUILD · SIMULATE · FLY · ITERATE ★
+  </text>
+</svg>
