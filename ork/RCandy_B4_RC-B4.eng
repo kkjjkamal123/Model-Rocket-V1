@@ -1,0 +1,13 @@
+; RCandy-250 custom KNSB (KNO3:sorbitol 65:35), 4 g propellant
+; 5.1 N-s class B; thrust scaled for ~250 m apogee on 18mm airframe
+; EDUCATIONAL - live ordnance, mentor+remote ignition required at all times
+; Import into OpenRocket: Preferences > User thrust-curves > Add file, restart OR
+RC-B4 18 55 none 0.0040 0.0080 R-Candy
+   0.032 7.40
+   0.080 8.70
+   0.213 8.06
+   0.347 6.76
+   0.453 4.33
+   0.507 2.17
+   0.533 0.00
+;
